@@ -1,0 +1,3 @@
+No teacher can have two classes at the same time
+No classroom can host more than one class per slot
+Computer classes must be in CSLab

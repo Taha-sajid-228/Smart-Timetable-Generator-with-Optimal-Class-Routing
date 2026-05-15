@@ -1,0 +1,3 @@
+Ali,MATH101
+Sara,ENG102
+Ahmed,CS103
